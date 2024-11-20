@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khanh Nguyen</h1>
 <h3 align="center">A passionate data engineer from Vietnam</h3>
+<img align="right" alt="Coding" width ="400" height="360" frameBorder="0"src="https://giphy.com/embed/2IudUHdI075HL02Pkk">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdn205&label=Profile%20views&color=0e75b6&style=flat" alt="kdn205" /> </p>
 
