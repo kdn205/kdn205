@@ -33,7 +33,9 @@
     <img src="https://skillicons.dev/icons?i=c,postgres,linux,mongodb,docker,git" /><br>
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3 align="center">⚡ Stats ⚡</h3>
+<div align=center>
+    <p><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/></p>
 <br>
 <div align=center>
     <p>&nbsp;<img align="center" width=490 src="https://github-readme-stats.vercel.app/api?username=kdn205&show_icons=true&locale=en" alt="kdn205" /></p>
