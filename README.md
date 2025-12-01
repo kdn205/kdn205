@@ -38,8 +38,8 @@
     <p><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/></p>
 <br>
 <div align=center>
-    <p>&nbsp;<img align="center" width=490 src="https://github-readme-stats.vercel.app/api?username=kdn205&show_icons=true&locale=en" alt="kdn205" /></p>
-    <p><img align="center" width=490 src="https://github-readme-streak-stats.herokuapp.com/?user=kdn205&" alt="kdn205" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kdn205&show_icons=true&locale=en"/></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kdn205&" alt="kdn205" /></p>
   <br/>
 </div>
 
